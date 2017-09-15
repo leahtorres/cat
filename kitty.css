@@ -1,7 +1,4 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
-body {
-		background-color:#800000;
-	}
 @media screen and (min-width: 220px) and (max-width: 450px) {
     img {
         content:url(images/kitten-small.png);	
@@ -31,3 +28,4 @@ img {
 .chicken {
 	visibility: hidden; 
 }
+	
