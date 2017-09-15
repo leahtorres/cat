@@ -17,7 +17,7 @@ img {
 	content:url(images/kitten-medium.png);
 }
 		.chicken {
-	visibility: hidden; 
+	visibility: visible; 
 }
 
 	}
