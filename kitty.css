@@ -3,17 +3,26 @@
     img {
         content:url(images/kitten-small.png);	
     }
+	.chicken {
+	visibility: visible;
+        content: url(images/cat.jpeg);
+}
+
 }
 	@media screen and (min-width: 451px) and (max-width: 650px) {
 
 img {
 	content:url(images/kitten-medium.png);
 }
+		.chicken {
+	visibility: hidden; 
+}
+
 	}
 @media screen and (min-width: 651px) and (max-width: 2000px) {
 img {
 	content:url(images/kitten-large.png);
 }
 .chicken {
-	content: invisible; 
+	visibility: hidden; 
 }
