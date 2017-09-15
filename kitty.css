@@ -1,4 +1,7 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
+body {
+background-image:url(https://user-images.githubusercontent.com/28358635/30505350-f958859a-9a28-11e7-9be5-576c17191245.gif);
+}
 @media screen and (min-width: 220px) and (max-width: 450px) {
     img {
         content:url(images/kitten-small.png);	
