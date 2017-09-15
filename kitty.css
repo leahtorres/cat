@@ -6,7 +6,7 @@
 	.chicken {
 	visibility: visible;
         content: url(images/cat.jpeg);
-		width:  60vw;
+		width:  50vw;
 		height: 50vh;
 }
 
@@ -28,3 +28,6 @@ img {
 .chicken {
 	visibility: hidden; 
 }
+	body {
+		background-color:#800000;
+	}
