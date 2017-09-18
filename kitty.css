@@ -13,7 +13,7 @@ background-image:url(https://user-images.githubusercontent.com/28358635/30505350
 		height: 100px;
 }
 }
-4@media screen and (min-width: 400px) and (max-width: 505px) {
+@media screen and (min-width: 400px) and (max-width: 505px) {
     img {
         content:url(images/kitten-small.png);	
     }
