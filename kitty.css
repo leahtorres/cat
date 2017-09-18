@@ -9,8 +9,8 @@ background-image:url(https://user-images.githubusercontent.com/28358635/30505350
 	.chicken {
 	visibility: visible;
         content: url(images/cat.jpeg);
-		width:  70px;
-		height: 50px;
+		width:  100px;
+		height: 100px;
 }
 }
 4@media screen and (min-width: 400px) and (max-width: 505px) {
