@@ -15,10 +15,10 @@ background-image:url(https://user-images.githubusercontent.com/28358635/30505350
 }
 @media screen and (min-width: 290px) and (max-width: 500px) {
     img {
-        content:url(images/cat_content.jpg);	
+        content:url(images/kitten-small.png);	
     }
 }
-	@media screen and (min-width: 501px) and (max-width: 750px) {
+@media screen and (min-width: 501px) and (max-width: 750px) {
 
 img {
 	content:url(images/kitten-medium.png);
